@@ -2,6 +2,6 @@
 
 Example URLs:
 
-- http://localhost:4321/api/departures?id=NSR:StopPlace:42660
-- http://localhost:4321/api/search-quays?query=samfundet
-- http://localhost:4321/api/search-departures?query=samfundet
+- https://astro-entur-api-example.vercel.app/api/departures?id=NSR:StopPlace:42660
+- https://astro-entur-api-example.vercel.app/api/search-quays?query=samfundet
+- https://astro-entur-api-example.vercel.app/api/search-departures?query=samfundet
